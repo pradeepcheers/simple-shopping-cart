@@ -1,0 +1,5 @@
+com/cart/shopping/simple/basket/BasketSpec.class
+com/cart/shopping/simple/inventory/TestInventory.class
+com/cart/shopping/simple/inventory/InventorySpec.class
+com/cart/shopping/simple/inventory/TestInventory$InventoryDetails.class
+com/cart/shopping/simple/item/ItemSpec.class

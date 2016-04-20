@@ -1,0 +1,7 @@
+com/cart/shopping/simple/basket/DefaultBasket.class
+com/cart/shopping/simple/inventory/Inventory.class
+com/cart/shopping/simple/item/Fruit.class
+com/cart/shopping/simple/item/Item.class
+com/cart/shopping/simple/basket/Basket.class
+com/cart/shopping/simple/item/FruitItem.class
+com/cart/shopping/simple/inventory/InventoryRequestException.class
